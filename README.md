@@ -10,5 +10,5 @@
 #### 🐥 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,react,nextjs,php,laravel,html,css,figma,ps,mysql,postgres,docker)](https://skillicons.dev)
 
-#### ✈️ 外部リンク
+#### ✈️ link
 - [Zenn](https://zenn.dev/fuwakani)
